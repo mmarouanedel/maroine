@@ -1,0 +1,39 @@
+body{
+    background:linear-gradient(to left,rgb(233, 195, 148),rgb(191, 226, 144));
+    background-repeat: no-repeat;
+    background-attachment:fixed ;
+    margin: 10pxpx;
+}
+
+h1{
+    border-style: ridge;
+
+    margin-right: auto;
+    margin-left: auto;
+
+}
+#gg{
+    color: rgb(109, 105, 66);
+    margin-left: auto;
+
+}
+.odd{
+    color: rgb(36, 32, 41);
+}
+#text{
+    font-family: "consolas";
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: bisque ;
+    font-size: s;
+    border-style: ridge ;
+    border-width: 3px;
+    border-color: antiquewhite;
+    border-radius: 5px;
+    width: 250px;
+    height: 250;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
